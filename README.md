@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything ☠
 - 💬 Ask me about anything you want 🤓
 - 📫 How to reach me: guimaraes-lucas@outlook.com.br 🕸
-- ⚡ Fun fact: Ambivert 👀
 - 📝 my articles at https://guimaraes-lucas.github.io ♥️🧠
+- ⚡ Fun fact: Ambivert 👀
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraes-lucas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
