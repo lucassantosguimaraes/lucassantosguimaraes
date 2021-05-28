@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Lucas
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guimaraes-lucas&show_icons=true&theme=cobalt)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucassantosguimaraes&show_icons=true&theme=cobalt)
 
 - 🔭 I’m currently working at everis 🤖
 - 🌱 I’m currently learning everything ☠
@@ -9,4 +9,4 @@
 - 📝 my articles at https://guimaraes-lucas.github.io ♥️🧠
 - ⚡ Fun fact: Ambivert 👀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraes-lucas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassantosguimaraes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
