@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Lucas
+## Hi there 👋 I'm Lucas
 
 - 🔭 I’m currently working at everis 🤖
 - 🌱 I’m currently learning everything ☠
