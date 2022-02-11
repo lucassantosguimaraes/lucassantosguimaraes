@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Lucas
 
-- 🔭 I’m currently working at everis 🤖
+- 🔭 I’m currently working at NTT Data 🤖
 - 🌱 I’m currently learning everything ☠
 - 💬 Ask me about anything you want 🤓
 - 📫 How to reach me: guimaraes-lucas@outlook.com.br 🕸
