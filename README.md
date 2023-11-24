@@ -40,8 +40,6 @@ Atua também na área educacional em palestras e mentoria para juniores e estagi
 </div>
 
 ![Snake animation](https://github.com/guimatech/guimatech/blob/output/github-contribution-grid-snake.svg)
-  
-##
 
 <h3> 🤝🏻 Connect with me </h3>
 
