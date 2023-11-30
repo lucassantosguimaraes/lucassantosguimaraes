@@ -11,7 +11,7 @@
 - 📝 my articles at https://guimatech.github.io ♥️🧠
 - ⚡ Fun fact: Ambivert 👀
 
-<h3> 👨🏻‍💻 Sobre mim </h3>
+<h3> 👨🏽‍💻 Sobre mim </h3>
 
 Engenheiro de software, entusiasta em economia e filosofia. 
 Trabalha na área de construção de softwares para Desktop, WEB e consultoria em tecnologia há mais de 9 anos.
