@@ -34,9 +34,20 @@ Atua também na área educacional em palestras e mentoria para juniores e estagi
 <br/>
 
 <div>
-  <a href="https://github.com/guimatech">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimatech&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimatech&layout=compact&langs_count=7&theme=cobalt"/>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/guimatech">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimatech&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+        </a>
+        </td>
+        <td>
+          <a href="https://github.com/guimatech">
+            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimatech&layout=compact&langs_count=7&theme=cobalt"/>
+          </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ![Snake animation](https://github.com/guimatech/guimatech/blob/output/github-contribution-grid-snake.svg)
