@@ -19,7 +19,7 @@ Especialista múltiplas linguagens de programação e ferramentas:
 Java, Spring, AWS, Azure, Docker, PHP, Dephi, Python, MySQL, PostgreSQL, ElasticSearch, entre outros.
 Atua também na área educacional em palestras e mentoria para juniores e estagiários.
 
-- 💼 &nbsp; Trabalhando como Tech lead na [NTTData](https://www.linkedin.com/company/ntt-data-europe-latam/mycompany/)
+- 💼 Trabalhando como Tech lead na [NTTData](https://www.linkedin.com/company/ntt-data-europe-latam/mycompany/)
 - Delphi Develop Certified
 - MBA Projetos de Aplicações Móveis
 
