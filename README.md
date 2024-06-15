@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning MBA Full Cycle Architecture ☠
 - 💬 Ask me about anything you want 🤓
 - 📫 How to reach me: guimaraes-lucas@outlook.com.br 🕸
-- 📝 my articles at https://guimatech.github.io ♥️🧠
+- 📝 my articles at https://guimaraes-lucas.com.br/ ♥️🧠
 - ⚡ Fun fact: Ambivert 👀
 
 <h3> 👨🏽‍💻 Sobre mim </h3>
